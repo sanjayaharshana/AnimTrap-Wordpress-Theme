@@ -1,0 +1,14 @@
+/*
+Theme Name: AnimTrap Sample Theme
+Theme URI: https://github.com/sanjayaharshana/animtrap
+Author: Jon Penland
+Author URI: http://www.jonpenland.com
+Description: A simple blog theme built on HTML5 templates developed by Start Bootstrap (https://startbootstrap.com)
+Version: 0.1
+License: The MIT License (MIT)
+License URI: https://opensource.org/licenses/MIT
+*/
+
+div.entry-content div.container {
+  width: auto;
+}
