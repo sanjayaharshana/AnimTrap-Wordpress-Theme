@@ -1,3 +1,3 @@
 # Simple Blog Theme
 
-<p>apple</p>
+<p></p>

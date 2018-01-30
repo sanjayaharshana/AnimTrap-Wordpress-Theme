@@ -539,6 +539,7 @@ return array_slice($terms,0,3,true);
 add_action('customize_register', 'lwp_footer_callout');
 
 include_once('adv_fucntion/advfunc.php');
+include_once('adv_fucntion/themefunc.php');
 
 ?>
 

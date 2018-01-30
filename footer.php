@@ -15,7 +15,9 @@
 <footer>
   <div class="row">
     <div class="col-lg-12">
-      <p>Copyright &copy; <?php bloginfo( 'name' ); ?> <?php echo current_time( 'Y' );?></p>
+        <div class="container">
+            <p><?php echo esc_attr( get_option('copyright_note') ); ?> </p>
+        </div>
     </div>
     <!-- /.col-lg-12 -->
   </div>
