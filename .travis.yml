@@ -1,4 +1,4 @@
-language: ruby
+language: php
 rvm:
  - 2.2
  - php
